@@ -6,7 +6,6 @@ layout: single
 author_profile: true
 ---
 
-<img src="images/bookcover.jpg" alt="Banner" style="width:100%; max-height: 400px; object-fit: cover; margin-bottom: 20px;" />
 
 
 Ayse Kaya Orloff* is an expert in International Political Economy, including international financial institutions and global environmental governance.  
