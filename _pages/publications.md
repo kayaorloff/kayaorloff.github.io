@@ -1,6 +1,9 @@
+
 ---
-title: "Publications"
+title: "Test Publications Page"
 permalink: /publications/
-layout: publications
-author_profile: true
+layout: single
+author_profile: false
 ---
+
+Just testing. If you can see this, the page is rendering.
