@@ -5,6 +5,6 @@ date: 2015-01-01
 category: books
 authors: "Ayse Kaya"
 venue: "Cambridge University Press"
-url_pdf:url: https://www.amazon.com/Power-Global-Economic-Institutions-Ayse/dp/1107544068/
+url: https://www.amazon.com/Power-Global-Economic-Institutions-Ayse/dp/1107544068/
 
 ---
