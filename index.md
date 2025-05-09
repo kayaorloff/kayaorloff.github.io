@@ -1,6 +1,6 @@
 ---
 title: "Ayse Kaya (Kaya Orloff)'s Website"
-layout: single
+layout: splash
 author_profile: false
 ---
 
