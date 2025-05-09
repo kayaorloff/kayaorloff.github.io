@@ -7,8 +7,8 @@ author_profile: false
 <section>
   <div style="display: flex; align-items: flex-start; gap: 20px;">
     <div>
-      <img src="images/globalinequalitycover.jpg" alt="Book 1" style="width: 200px; margin-bottom: 10px;" />
-      <img src="images/bookcover.jpg" alt="Book 2" style="width: 200px;" />
+      <img src="images/globalinequalitycover.jpg" alt="Book 1" style="width: 250px; margin-bottom: 10px;" />
+      <img src="images/bookcover.jpg" alt="Book 2" style="width: 250px;" />
     </div>
     <div>
       <p>
