@@ -1,4 +1,4 @@
 title: "Publications"
  permalink: /publications/
- layout: publications
+ layout: single
  author_profile: true
