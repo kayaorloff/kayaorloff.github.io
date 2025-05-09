@@ -7,7 +7,7 @@ author_profile: false
 <section>
   <div style="display: flex; align-items: flex-start; gap: 20px;">
     <div>
-      <img src="images/headshot.jpg" alt="Book 1" style="width: 600px; margin-bottom: 10px;" />
+      <img src="images/headshot.jpg" alt="Book 1" style="width: 800px; margin-bottom: 10px;" />
     </div>
     <div>
       <p>
