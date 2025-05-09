@@ -4,7 +4,11 @@ layout: single
 author_profile: true
 ---
 
-<div style="width: 100%; height: 300px; background-image: url('images/bookcover.jpg'); background-size: cover; background-position: center; margin-bottom: 20px;"></div>
+<div style="float: left; margin-right: 20px; margin-bottom: 10px;">
+  <img src="images/globalinequalitycover.jpg" alt="Book 1" style="width: 120px; margin-bottom: 10px;" />
+  <img src="images/bookcover.jpg" alt="Book 2" style="width: 120px;" />
+</div>
+
 
 
 Ayse Kaya Orloff is an expert in International Political Economy, including international financial institutions and global environmental governance.  
