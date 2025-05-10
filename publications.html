@@ -4,21 +4,34 @@ layout: default
 
 <div class="page__inner-wrap">
 
-  <h1>{{ page.title }}</h1>
+  <header>
+    <h1>{{ page.title }}</h1>
+    {% if page.excerpt %}
+      <p>{{ page.excerpt }}</p>
+    {% endif %}
+  </header>
 
-  <p>Total publications found: {{ site.publications | size }}</p>
-
-  <ul>
-    {% for pub in site.publications %}
-      <li style="margin-bottom: 1em;">
-        <strong>{{ pub.title }}</strong><br>
-        {% if pub.authors %}<em>{{ pub.authors }}</em><br>{% endif %}
-        {% if pub.venue %}{{ pub.venue }}, {% endif %}
-        {{ pub.date | date: "%Y" }}<br>
-        {% if pub.url_pdf %}<a href="{{ pub.url_pdf }}">PDF</a>{% endif %}
-        {% if pub.url %} <a href="{{ pub.url }}">Link</a>{% endif %}
-      </li>
-    {% endfor %}
-  </ul>
+  {% assign pub_types = site.publication_category %}
+  {% for type in pub_types %}
+    {% assign category = type[0] %}
+    {% assign heading = type[1].title %}
+    {% assign publications = site.publications | where: "category", category | sort: "date" | reverse %}
+    {% if publications.size > 0 %}
+      <section>
+        <h2>{{ heading }}</h2>
+        <ul class="pub-list">
+        {% for pub in publications %}
+          <li>
+            <strong>{{ pub.title }}</strong><br>
+            {% if pub.authors %}<em>{{ pub.authors }}</em><br>{% endif %}
+            {% if pub.venue %}{{ pub.venue }}, {% endif %}{{ pub.date | date: "%Y" }}<br>
+            {% if pub.url_pdf %}<a href="{{ pub.url_pdf }}">PDF</a>{% endif %}
+            {% if pub.url %} <a href="{{ pub.url }}">Link</a>{% endif %}
+          </li>
+        {% endfor %}
+        </ul>
+      </section>
+    {% endif %}
+  {% endfor %}
 
 </div>
