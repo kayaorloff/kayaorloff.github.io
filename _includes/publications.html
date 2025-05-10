@@ -1,0 +1,14 @@
+<p>Total publications found: {{ site.publications | size }}</p>
+
+<ul>
+  {% for pub in site.publications %}
+    <li style="margin-bottom: 1em;">
+      <strong>{{ pub.title }}</strong><br>
+      {% if pub.authors %}<em>{{ pub.authors }}</em><br>{% endif %}
+      {% if pub.venue %}{{ pub.venue }}, {% endif %}
+      {{ pub.date | date: "%Y" }}<br>
+      {% if pub.url_pdf %}<a href="{{ pub.url_pdf }}">PDF</a>{% endif %}
+      {% if pub.url %} <a href="{{ pub.url }}">Link</a>{% endif %}
+    </li>
+  {% endfor %}
+</ul>
