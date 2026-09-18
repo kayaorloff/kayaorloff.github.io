@@ -21,7 +21,7 @@ repository               : "kayaorloff/kayaorloff.github.io"
 # A blank field hides that icon/link.
 author:
   # Biographic information
-  avatar           : "/images/New pic.jpg"
+  avatar           : "New pic.jpg"
   name             : "Ayse Kaya (Kaya Orloff)"
   pronouns         :
   bio              : "Professor of Political Science, Swarthmore College"
