@@ -20,7 +20,7 @@ author_profile: true
 
 ## Working Papers {#working-papers}
 
-- "The Catalytic Impact of the World Bank's Climate Finance in Emerging Markets." With A. Leblebicioglu. (Completed, pre-submission.)
+- "The Catalytic Impact of the World Bank's Climate Finance in Emerging Markets." With A. Leblebicioglu. (Completed, under view.)
 - "The Distributional Consequences of Regime Complexity: Evidence from Multilateral Climate Finance." With I. Bellezza. (Completed, pre-submission.)
 
 ## Peer-Reviewed Articles {#articles}
