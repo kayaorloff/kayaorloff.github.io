@@ -56,4 +56,4 @@ author_profile: true
 - "[Washington's Multilateral Retreat Creates an Opening for State and Local Leaders](https://www.justsecurity.org/120345/trump-multilateral-orgs-local-leaders/)." With J. Temin. *Just Security*, September 17, 2025.
 - "[Multilateral Development Banks and Climate Finance: More Words Than Action](https://sdg.iisd.org/commentary/guest-articles/multilateral-development-banks-and-climate-finance-more-words-than-action/)." IISD Sustainable Development Goals Knowledge Hub, 2022.
 - "[The 100 Billion Dollar Question: COP26 Glasgow and Climate Finance](https://www.globalpolicyjournal.com/blog/16/11/2021/100-billion-dollar-question-cop26-glasgow-and-climate-finance)." *Global Policy Opinion*, November 2021.
-- "[Messy Multilateralism](https://www.csis.org/analysis/future-international-system)." In *The Future of the International System*, CSIS Report.
+- "[Messy Multilateralism](https://www.csis.org/analysis/future-international-system)." In *The Future of the International System*, CSIS Report, 2021.
