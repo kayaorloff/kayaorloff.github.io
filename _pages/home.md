@@ -16,5 +16,5 @@ She holds a PhD in Government from the London School of Economics and a BA from 
 
 See [publications](/publications/) [under Kaya only] for her books, peer-reviewed articles, chapters, and policy essays.
 
-She also maintains a blog on the global economy — *[Cold Takes on Hot Issues](https://substack.com/@kayaorloff)*.
+She also maintains a blog on the global economy — [Cold Takes on Hot Issues](https://substack.com/@kayaorloff)
 
