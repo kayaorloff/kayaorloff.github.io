@@ -21,10 +21,14 @@ repository               : "kayaorloff/kayaorloff.github.io"
 # A blank field hides that icon/link.
 author:
   # Biographic information
+  avatar           : "New pic.jpg"
+  name             : "Ayse Kaya (Kaya Orloff)"
+  pronouns         :
   bio              : "Professor of Political Science, Swarthmore College; Adjunct Professor of Business Economics and Public Policy, The Wharton School, University of Pennsylvania"
   location         : "Swarthmore, PA"
   employer         : "Swarthmore College"
-  
+  uri              :
+  email            :
 
   # Academic websites
   academia         :
