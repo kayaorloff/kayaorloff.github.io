@@ -23,6 +23,7 @@ author_profile: true
 
 ## Peer-Reviewed Articles
 
+- "IMF Conditionality on Corruption: The Politics of Good Governance." With M. Angin, S. Metinsoy, B. Reinsberg. *Regulation & Governance* (published online June 10, 2026.)
 - "Understanding the World Bank's Role in Climate Finance." With A. Leblebicioglu. *Climatic Change* 178, 160 (2025).
 - "Power by Proxy: Participation as a Resource in Global Governance." With S. Arias and R. Clark. *The Review of International Organizations* (published online February 4, 2025).
 - "Covert Participation: How Populists Engage with International Organizations." With A. Carnegie and R. Clark. *Journal of Politics* 86(3): 877–891, 2024.
