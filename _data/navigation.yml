@@ -1,0 +1,6 @@
+# The order of the links in the header of the website.
+main:
+  - title: "Publications"
+    url: /publications/
+  - title: "Data"
+    url: /data/
