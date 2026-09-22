@@ -20,7 +20,6 @@ author_profile: true
 - *[Power and Global Economic Institutions](https://www.amazon.com/dp/B017205GCM).* Cambridge University Press, 2015 (hardback), 2017 (paperback).
 - *[Global Inequality: Patterns and Explanations](https://www.amazon.com/dp/0745638872).* Edited with David Held. Polity Press, 2007.
 
-<sub>[↑ Back to top](#top)</sub>
 
 ## Peer-Reviewed Articles {#articles}
 
