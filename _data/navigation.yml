@@ -4,3 +4,5 @@ main:
     url: /publications/
   - title: "Data"
     url: /data/
+ - title: "Media"
+    url: /media/
