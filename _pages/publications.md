@@ -7,7 +7,7 @@ author_profile: true
 
 <span id="top"></span>
 
-I have published on the following themes: **climate finance and global environmental governance**; **the IMF, World Bank, and global economic governance**; **rising powers, China, and the AIIB**; **populism and international organizations**; **monetary policy and financial crises**; and **economic globalization**. Please see the full list by type below.
+I have published on the following themes: **the IMF, World Bank, and global economic governance**; **rising powers, China, and the AIIB**; **populism and international organizations**; **monetary policy and financial crises**; **climate finance and global environmental governance**, and **economic globalization**. Please see the full list by type below.
 
 **Browse by type:** [Books](#books) · [Peer-Reviewed Articles](#articles) · [Book Chapters & Essays](#chapters) · [Working Papers](#current)
 
@@ -49,7 +49,7 @@ I have published on the following themes: **climate finance and global environme
 
 ## Book Chapters & Policy Essays {#chapters}
 
-- "Populism and International Organizations." With R. Tella. In Rode, Hartwell & Stöckl (eds.), *Handbook on Economic Populism.* Edward Elgar Publishing, forthcoming.
+- "Populism and International Organizations." With R. Tella\*. In Rode, Hartwell & Stöckl (eds.), *Handbook on Economic Populism.* Edward Elgar Publishing, forthcoming.
 - "[Washington's Multilateral Retreat Creates an Opening for State and Local Leaders](https://www.justsecurity.org/120345/trump-multilateral-orgs-local-leaders/)." With J. Temin. *Just Security*, September 17, 2025.
 - "[Climate Change](https://www.e-elgar.com/shop/usd/handbook-of-aid-and-development-9781800886803.html)." In Desai, Devarajan & Tobin (eds.), *Handbook on Aid and Development.* Elgar Press, 2024.
 - "[Economic Inequality and Growth](https://www.dropbox.com/scl/fi/6qd4ljn7u0y03230zn96k/IMFInequality_Kaya_1105.pdf?rlkey=dq0peva6nywy3x88ez5x3ed73&dl=0)." In Momani & Hibben (eds.), *Oxford Handbook of the IMF*, 2024.
@@ -63,7 +63,7 @@ I have published on the following themes: **climate finance and global environme
 ## Working Papers & In Progress {#current}
 
 - *The World Bank's Climate Finance as a Global Public Good: Allocation Dynamics, Catalytic & Greening Impacts.* With Asli Leblebicioglu. (Book, near completion.)
-- "The Catalytic Impact of the World Bank's Climate Finance in Emerging Markets." With A. Leblebicioglu. (Completed, pre-submission.)
+- "The Catalytic Impact of the World Bank's Climate Finance in Emerging Markets." With A. Leblebicioglu. (Completed, under review.)
 - "The Distributional Consequences of Regime Complexity: Evidence from Multilateral Climate Finance." With I. Bellezza. (Completed, pre-submission.)
 
 <sub>[↑ Back to top](#top)</sub>
