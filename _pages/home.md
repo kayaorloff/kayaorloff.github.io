@@ -14,6 +14,8 @@ Her research examines multilateral economic institutions (the IMF, World Bank, a
 
 She holds a PhD in Government from the London School of Economics and a BA from Wellesley College (summa cum laude, Phi Beta Kappa), and completed a post-doctoral fellowship at Columbia University. As a Council on Foreign Relations Fellow, she served as a Senior Advisor at the U.S. Department of State (2023–2025). 
 
+She has multiple teaching excellence awards from The Wharton School and has twice been voted by Swarthmore's graduating class to speak at Commencement. 
+
 See [publications](/publications/) [under Kaya only] for her books, peer-reviewed articles, chapters, and policy essays.
 
 She also maintains a Substack blog on the global economy, [Cold Takes on Hot Issues](https://substack.com/@kayaorloff)
