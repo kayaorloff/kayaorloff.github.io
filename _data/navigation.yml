@@ -6,3 +6,7 @@ main:
     url: /data/
   - title: "Media Coverage"
     url: /media/
+  - title: "Substack"
+    url: /substack/
+    
+    
