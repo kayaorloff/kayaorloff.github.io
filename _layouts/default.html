@@ -27,5 +27,17 @@ layout: compress
 
     {% include scripts.html %}
 
+    <script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const links = document.querySelectorAll("a");
+    links.forEach(link => {
+      if (link.href.includes("substack.com")) {
+        link.setAttribute("target", "_blank");
+        link.setAttribute("rel", "noopener noreferrer");
+      }
+    });
+  });
+</script>
+
   </body>
 </html>
