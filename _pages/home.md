@@ -18,7 +18,7 @@ She has multiple teaching excellence awards from The Wharton School and has twic
 
 See [publications](/publications/) [under Kaya only] for her books, peer-reviewed articles, chapters, and policy essays.
 
-She also maintains a Substack blog on the global economy, [Cold Takes on Hot Issues](/substack/)
+She also maintains a Substack blog on the global economy, [Cold Takes on Hot Issues]({% for link in site.data.navigation.main %}{% if link.title == "Substack" %}{{ link.url }}{% endif %}{% endfor %}).
 
 
 
