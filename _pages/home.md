@@ -18,6 +18,5 @@ She has multiple teaching excellence awards from The Wharton School and has twic
 
 See [publications](/publications/) [under Kaya only] for her books, peer-reviewed articles, chapters, and policy essays.
 
-She also maintains a Substack blog on the global economy, [Cold Takes on Hot Issues](https://kayaorloff.substack.com/)
-
+She also maintains a Substack blog on the global economy, _Cold Takes on Hot Issues_ (see the navigation bar up top).
 
