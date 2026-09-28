@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Dr. Ayse Kaya's Academic Website"
+title                    :
 title_separator          : "-"
-name                     : &name "Ayse Kaya (Kaya Orloff)"
+name                     : 
 description              : &description "I am a Professor with expertise in international political economy, including international financial institutions, and global environmental governance."
 url                      : https://kayaorloff.github.io
 baseurl                  : ""
