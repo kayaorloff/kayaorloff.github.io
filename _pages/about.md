@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-![Ayse Kaya Orloff](/images/newpic2.jpg){: width="30%"}
+![Ayse Kaya Orloff](/images/newpic2.jpg){: .align-left width="30%"}
 
 Dr. Ayse Kaya Orloff is a Professor of Political Science at Swarthmore College and an Adjunct Professor of Business Economics and Public Policy at the Wharton School, University of Pennsylvania. Her expertise is in **international political economy**, including **international financial institutions** and **global environmental governance**.
 
