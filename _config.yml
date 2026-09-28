@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    :
+title                    : "Dr. Ayse Kaya's Academic Website"
 title_separator          : "-"
-name                     : 
+name                     : &name "Ayse Kaya (Kaya Orloff)"
 description              : &description "I am a Professor with expertise in international political economy, including international financial institutions, and global environmental governance."
 url                      : https://kayaorloff.github.io
 baseurl                  : ""
@@ -22,7 +22,7 @@ repository               : "kayaorloff/kayaorloff.github.io"
 author:
   # Biographic information
   avatar           : 
-  name             : "Ayse Kaya (Kaya Orloff)"
+  name             :
   pronouns         :
   bio              : "Professor of Political Science, Swarthmore College; Adjunct Professor of Business Economics and Public Policy, The Wharton School, University of Pennsylvania"
   location         : "Swarthmore, PA"
