@@ -18,6 +18,8 @@ She holds a PhD in Government from the London School of Economics and a BA from 
 
 She has multiple teaching excellence awards from The Wharton School and has twice been voted by Swarthmore's graduating class to speak at Commencement. 
 
+Prof. Kaya is an associated editor of __International Studies Quarterly_ and sits on the board of the _American Journal of Political Science_.
+
 See [publications](/publications/) [under Kaya only] for her books, peer-reviewed articles, chapters, and policy essays.
 
 She also maintains a Substack blog on the global economy, [Cold Takes on Hot Issues](https://kayaorloff.substack.com/).
