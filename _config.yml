@@ -21,15 +21,7 @@ repository               : "kayaorloff/kayaorloff.github.io"
 # A blank field hides that icon/link.
 author:
   # Biographic information
-{% if author.avatar and author.avatar != "" %}
-<div class="author__avatar">
-  {% if author.avatar contains "://" %}
-    <img src="{{ author.avatar }}" alt="{{ author.name }}">
-  {% else %}
-    <img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
-  {% endif %}
-</div>
-{% endif %}
+  avatar           :
   name             :
   pronouns         :
   bio              : "Professor of Political Science, Swarthmore College; Adjunct Professor of Business Economics and Public Policy, The Wharton School, University of Pennsylvania"
