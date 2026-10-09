@@ -55,7 +55,7 @@ I have published on the following themes: **the IMF, World Bank, and global econ
 - "[Economic Inequality and Growth](https://www.dropbox.com/scl/fi/6qd4ljn7u0y03230zn96k/IMFInequality_Kaya_1105.pdf?rlkey=dq0peva6nywy3x88ez5x3ed73&dl=0)." In Momani & Hibben (eds.), *Oxford Handbook of the IMF*, 2024.
 - "[Multilateral Development Banks and Climate Finance: More Words Than Action](https://sdg.iisd.org/commentary/guest-articles/multilateral-development-banks-and-climate-finance-more-words-than-action/)." IISD Sustainable Development Goals Knowledge Hub, 2022.
 - "[The 100 Billion Dollar Question: COP26 Glasgow and Climate Finance](https://www.globalpolicyjournal.com/blog/16/11/2021/100-billion-dollar-question-cop26-glasgow-and-climate-finance)." With O. Stoetzer\*. *Global Policy Opinion*, November 2021.
-- “[The AIIB’s Risky Pandemic Response] (https://reconasia.csis.org/aiibs-risky-pandemic-response/).” With C. Kilby and J. Kay. Reconnecting Asia, August 20, 2020.
+- “[The AIIB’s Risky Pandemic Response](https://reconasia.csis.org/aiibs-risky-pandemic-response/).” With C. Kilby and J. Kay. *Reconnecting Asia*, August 20, 2020.
 - "[BRICS and the International Financial Institutions](https://www.worldscientific.com/worldscibooks/10.1142/11330-vol2)." In Kim (ed.), *BRICS and the Global Economy.* World Scientific, 2020.
 - "[Messy Multilateralism](https://www.csis.org/analysis/future-international-system)." In *The Future of the International System*, CSIS Report.
 
