@@ -63,7 +63,7 @@ I have published on the following themes: **the IMF, World Bank, and global econ
 
 ## Working Papers & In Progress {#current}
 
-- *The World Bank's Climate Finance as a Global Public Good: Allocation Dynamics, Catalytic & Greening Impacts.* With Asli Leblebicioglu. (Book, near completion.)
+- *The World Bank's Climate Finance as a Global Public Good: Allocation Dynamics, Catalytic & Greening Impacts.* With Asli Leblebicioglu. (under review)
 - "The Catalytic Impact of the World Bank's Climate Finance in Emerging Markets." With A. Leblebicioglu. (Completed, under review.)
 - "The Distributional Consequences of Regime Complexity: Evidence from Multilateral Climate Finance." With I. Bellezza. (Completed, pre-submission.)
 
